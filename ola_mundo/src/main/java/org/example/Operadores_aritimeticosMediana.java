@@ -13,3 +13,4 @@ public class Operadores_aritimeticosMediana {
         System.out.println("A soma de " + nota1 + " + " + nota2 + " é igual a " + media);
     }
 }
+
