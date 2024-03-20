@@ -2,7 +2,7 @@ package org.example;
 
 import java.util.Scanner;
 
-/* public class Somando_Dois_Numeros_Metodo {
+public class Somando_Dois_Numeros_Metodo {
     public static void main(String [] args){
         Scanner teclado = new Scanner(System.in);
         System.out.print("Digite o n1: ");
@@ -15,4 +15,3 @@ import java.util.Scanner;
 }
 
 
- */

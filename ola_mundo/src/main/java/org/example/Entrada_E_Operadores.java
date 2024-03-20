@@ -2,7 +2,7 @@ package org.example;
 
 import java.util.Scanner;
 
-/* public class Entrada_E_Operadores {
+ public class Entrada_E_Operadores {
     public static void main(String[] args){
         Scanner teclado = new Scanner(System.in);
 
@@ -12,4 +12,4 @@ import java.util.Scanner;
     }
 }
 
- */
+ 
